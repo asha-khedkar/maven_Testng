@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-13T11:11:04Z" name="Default suite" finished-at="2022-01-13T11:13:47Z" duration-ms="162947">
+    <groups>
+    </groups>
+    <test started-at="2022-01-13T11:11:04Z" name="Default test" finished-at="2022-01-13T11:13:47Z" duration-ms="162947">
+      <class name="testNG_concepts.ListAssginment">
+        <test-method signature="selectableList()[pri:0, instance:testNG_concepts.ListAssginment@7aaca91a]" started-at="2022-01-13T16:41:04Z" name="selectableList" finished-at="2022-01-13T16:42:21Z" duration-ms="77044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectableList -->
+        <test-method signature="unorderedList()[pri:0, instance:testNG_concepts.ListAssginment@7aaca91a]" started-at="2022-01-13T16:42:21Z" name="unorderedList" finished-at="2022-01-13T16:43:47Z" duration-ms="85876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unorderedList -->
+      </class> <!-- testNG_concepts.ListAssginment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
